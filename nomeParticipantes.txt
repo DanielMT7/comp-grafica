@@ -1,0 +1,4 @@
+# Fractal, Piramide, Relogio, StanfordPLY - Caio Rodrigues, Daniel Motta
+
+# Cubo - Código de Ana e Vinicius
+# EsferaIluminada - Wesley Faria e Rodrigo Parracho
